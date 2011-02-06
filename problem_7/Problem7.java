@@ -25,13 +25,13 @@ public class Problem7 {
 		strs2.add("b");
 		strs2.add("a");
 		
-		//str 1 contains 3?
+		//strs 1 contains 3?
 		System.out.print("List 1: ");
 		System.out.print(strs1);
 		System.out.print("\n\nContains 3? ");
 		System.out.print(contains3(strs1));
 		
-		//str 1 contains 3?
+		//strs 2 contains 3?
 		System.out.print("\n\nList 2: ");
 		System.out.print(strs2);
 		System.out.print("\n\nContains 3? ");
