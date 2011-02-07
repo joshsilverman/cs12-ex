@@ -42,7 +42,7 @@ public class Problem7 {
 		
 		boolean contains3 = false;
 		
-		//occurence counts
+		//occurrence counts
 		HashMap<String, Integer> occurenceCounts = new HashMap<String, Integer>();
 		Object occurenceCount;
 		Integer occurenceCountInt;

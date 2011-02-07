@@ -1,6 +1,8 @@
+/* driver program to test problem 1 */
+
 package problem_1;
 
-public class Test {
+public class Driver {
 
 	public static void main(String[] args) {
 		

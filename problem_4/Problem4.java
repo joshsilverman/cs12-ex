@@ -35,7 +35,7 @@ public class Problem4 {
 	
 	public static ArrayList<ArrayList<String>> buildNestedArrays(String path) throws FileNotFoundException {
 	
-		//get file
+		//get/read/parse file
 		File data  = new File(path);
         Scanner scanner = new Scanner(data);
         ArrayList<ArrayList<String>> lines = new ArrayList<ArrayList<String>>();

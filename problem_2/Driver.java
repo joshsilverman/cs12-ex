@@ -1,10 +1,8 @@
+/* driver program to test problem 2 */
+
 package problem_2;
 
-import java.util.List;
-import java.util.ArrayList;
-import java.util.Iterator;
-
-public class Test {
+public class Driver {
 	
 	public static void main(String[] args) {
 		
@@ -17,7 +15,7 @@ public class Test {
         tp.print();
         
 		//set favorite hockey player
-        HockeyPlayer hp = new HockeyPlayer("Mike", "$985732", 9, "Left wing", 28, 766);
+        HockeyPlayer hp = new HockeyPlayer("Dan", "$985732", 9, "Left wing", 28, 766);
         hp.print();
 	}
 }
